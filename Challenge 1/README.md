@@ -1,6 +1,6 @@
 # HighTech_Kisan_annam
 
-# 🌱 Soil Classification Challenge
+# 🌱 Soil Classification Challenge 1
 
 This repository contains a Google Colab notebook that demonstrates a complete machine learning workflow for classifying images of soil into different types using a Convolutional Neural Network (CNN).
 
