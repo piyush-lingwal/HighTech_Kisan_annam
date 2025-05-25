@@ -1,4 +1,4 @@
-# 🌱 Soil Image Classification Challenge - Annam.ai, IIT Ropar 🌱
+# 🌱 Soil Image Classification Challenge - 2
 
 This notebook presents a solution for the Soil Image Classification Challenge. The goal is to classify images based on whether they contain soil (label 1) or not (label 0) using a pre-trained ResNet18 model in PyTorch.
 
